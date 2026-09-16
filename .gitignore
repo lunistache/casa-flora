@@ -1,0 +1,7 @@
+# Photos originales (17 Mo) — sauvegarde locale, inutile en ligne
+images/_originals/
+
+# Fichiers système
+Thumbs.db
+desktop.ini
+.DS_Store
